@@ -2,8 +2,9 @@
 **
 
 !*.nss
-!imports/
 !scripts/*.bat
+!imports/
+!scripts/
 
 !.gitignore
 !.gitattributes
