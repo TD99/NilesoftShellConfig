@@ -1,0 +1,10 @@
+*
+**
+
+!*.nss
+!imports/
+!scripts/*.bat
+
+!.gitignore
+!.gitattributes
+!readme.md
